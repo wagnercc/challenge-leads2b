@@ -1,24 +1,13 @@
 # challenge-leads
 
-## Project setup
+## Iniciar o projeto
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+Baixe o projeto em sua maquina e execute o comando: npm install, ele irá instalar os pacotes node dependentes.
 ```
 
-### Compiles and minifies for production
+### Executando o projeto
 ```
-npm run build
+Para que o projeto funcione, juntamente com sua "database", deverá executar o json-server junto com a aplicação.
+Execute o código: json-server --watch db.json --port 3001 - a aplicação espera que seja nesta porta.
+E em outra aba, execute o projeto: npm run serve
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
