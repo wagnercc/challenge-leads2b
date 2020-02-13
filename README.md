@@ -1,7 +1,8 @@
-# A challenge leads
+# Challenge Leads
+
 ## Atenção! Leia:
 
-## Iniciar o projeto
+### Iniciar o projeto
 ```
 Baixe o projeto em sua maquina e execute o comando: npm install, ele irá instalar os pacotes node dependentes.
 ```
