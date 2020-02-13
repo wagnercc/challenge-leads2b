@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "dateRegistred": "12/02/2020",
+      "name": "admin",
+      "password": "MTIzNA==",
+      "id": 1
+    }
+  ]
+}
